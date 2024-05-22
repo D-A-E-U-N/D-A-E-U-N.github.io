@@ -2,6 +2,6 @@
 
 <html>
 	<body>
-		Hello! This is the first page!
+		야호
 	</body>
 </html>
